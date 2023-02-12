@@ -1,0 +1,1 @@
+Testando adição de documento de texto no repositório do curso de git da dio
